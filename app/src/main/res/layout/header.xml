@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="180dp"
+    android:background="@color/lightOrange">
+
+    <Button
+        android:id="@+id/btnSignInUp"
+        android:text="Signin / Signup"
+        android:textAllCaps="false"
+        android:textColor="@color/orange"
+        android:layout_marginTop="75dp"
+        android:textSize="20dp"
+        android:layout_gravity="center"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/round_button"/>
+
+
+</LinearLayout>
